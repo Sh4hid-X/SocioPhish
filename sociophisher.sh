@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ##   sociophisher 	: 	Automated Phishing Tool
-##   Author     	: 	ALEX BIEBER
+##   Author     	: 	Tʜɘ'w SʜʌɩDʋ
 ##   Version 	    : 	2.2
-##   Github 	    : 	https://github.com/alexbieber
+##   Github 	    : 	https://github.com/Sh4hid-X
 
 
 
